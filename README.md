@@ -1,1 +1,1 @@
-# EntityFrameWorkCoreConsoleProject
+# SalesReportConsoleApp
